@@ -9,9 +9,10 @@
    
    `АВ` = x2 - x1, y2-y1
    
-   `Длина АВ` =sqrt(x2 - x1) *(x2 - x1) + (y2 - y1) * (y2 - y1)
-4. Вывод `otvet` = sqrt(AB)
-5. Конец
+   `Длина АВ` =(x2 - x1) *(x2 - x1) + (y2 - y1) * (y2 - y1)
+   `otvet` = sqrt(AB)
+5. Вывод `otvet`
+6. Конец
 
 # Блок-схема
 <img width="207" height="542" alt="Диаграмма без названия drawio (5)" src="https://github.com/user-attachments/assets/f697e3f1-d876-4e52-b1a4-16468442908a" />
