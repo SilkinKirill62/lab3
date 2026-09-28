@@ -15,7 +15,7 @@
 6. Конец
 
 # Блок-схема
-<img width="207" height="542" alt="Диаграмма без названия drawio (5)" src="https://github.com/user-attachments/assets/f697e3f1-d876-4e52-b1a4-16468442908a" />
+<img width="322" height="622" alt="блок схема drawio" src="https://github.com/user-attachments/assets/58b3a6c8-334a-454d-86b1-1fb08dec4731" />
 
 # Реализация
 ```
