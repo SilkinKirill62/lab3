@@ -6,9 +6,9 @@ int main() {
 	double b;
 	setlocale(LC_ALL, ".UTF8");
 	printf("a=");
-	scanf_s("%lf", &a);
+	scanf("%lf", &a);
 	printf("b=");
-	scanf_s("%lf", &b);
+	scanf("%lf", &b);
 	printf("|%7s| |%7s| |%7s|\n", "a*b","a+b", "a-b");
 	printf("|%3.0lf*%3.0lf| |%3.0lf+%3.0lf| |%3.0lf-%3.0lf|\n", a, b, a, b, a, b);
 	printf("|%7.0lf| |%7.0lf| |%7.0lf|\n", a*b, a+b, a - b);
